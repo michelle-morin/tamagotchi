@@ -6,7 +6,7 @@
 
 ## Description
 
-_This application..._
+_This application is a pokemon tamagotchi that allows a user to care for a pokemon. The pokemon evolves if properly cared for, and potions/rare candies are periodically awarded to a user to help care for the pokemon._
 
 ## Specifications:
 
