@@ -6,7 +6,9 @@
 
 ## Description
 
-_This application [deployed on Netflify](https://friendly-khorana-2b765f.netlify.com/) is a pokemon tamagotchi that allows a user to care for a pokemon. The pokemon evolves if properly cared for, and potions/rare candies are periodically awarded to a user to help care for the pokemon._
+_This application is a pokemon tamagotchi that allows a user to care for a pokemon. The pokemon evolves if properly cared for, and potions/rare candies are periodically awarded to a user to help care for the pokemon._
+
+_This application is deployed on [Netlify](https://pokemon-tamagotchi.netlify.com/)._
 
 ## Specifications:
 
